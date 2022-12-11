@@ -1,4 +1,5 @@
-from math import sqrt
+#Palindrome words and phrases are spelled the same backward and forward.
+
 word = str(input("Enter a word: "))
 def convenable(item):
     numbers = []
